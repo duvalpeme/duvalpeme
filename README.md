@@ -1,7 +1,7 @@
 # Bonjour ! Moi c'est Duval PÉMÈ 👋
 
-### 📊 Data Analyst Senior | Expert en Gestion de Données, Business Intelligence & Architecture des SI
-**Douala, Cameroun 🇨🇲 | +12 ans d'expérience dans le pilotage par la donnée**
+### 📊 Data Analyst Senior | Expert en Gestion de Données, Business Intelligence & Formateur
+**Douala, Cameroun 🇨🇲 | 12 ans d'expérience dans le pilotage par la donnée**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/duval-peme)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duvalpeme@gmail.com)
@@ -11,9 +11,8 @@
 
 ## 👨‍💻 À propos de moi
 
-Expert en **gestion de données, intelligence décisionnelle (BI) et gouvernance des données**, fort de plus de **12 ans d'expérience** dans la conception de systèmes d'information robustes, l'assurance qualité des données et le pilotage stratégique d'organisations multi-sites en Afrique Centrale et francophone.
+Expert en **analyse de données, intelligence décisionnelle (BI) et gouvernance des données**, fort de plus de **12 ans d'expérience** dans la conception de dashboard, l'assurance qualité des données et le pilotage stratégique d'organisations multi-sites en Afrique Centrale et francophone.
 
-- 🎓 **Diplômé de l'EPFL** : Master en Informatique (Conception Logicielle) & Bachelor à l'**École Polytechnique Fédérale de Lausanne**.
 - 🏆 **Award d'Excellence Académique et Professionnel** (Novembre 2025) à BEM Douala Management School.
 - 👨‍🏫 **Formateur International & Enseignant** : Renforcement de capacités auprès de professionnels de plus de **14 pays francophones** et enseignant du module *Audit des Systèmes d'Information* en Master 2.
 - 💡 Expertise éprouvée dans la consolidation de données hétérogènes multi-sources, l'automatisation de rapports réglementaires prudentiels (COBAC / BEAC / BCEAO) et la modélisation d'entrepôts de données en étoile.
