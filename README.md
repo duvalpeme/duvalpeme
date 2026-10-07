@@ -54,3 +54,59 @@ Expert en **analyse de données, intelligence décisionnelle (BI) et gouvernance
 ---
 
 ## 🚀 Projets Sélectionnés & Études de Cas
+
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  📊 Lead Financial Advisory (Gabon) | Automatisation du Reporting Réglementaire        │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  • Modélisation en étoile Power BI alimentée depuis le système bancaire central.        │
+│  • Calcul automatique de 12 ratios de conformité COBAC avec alertes en temps réel.     │
+│  🎯 Résultat : Délai de production réduit de 5 JOURS à 4 HEURES (0 erreur sur 6 mois).  │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+
+
+### 🔹 **Attijari Bank Tchad — Pipeline ETL & Scoring de Crédit Automatisé**
+- **Architecture** : Conception d'un pipeline ETL Python/SQL et d'un modèle sémantique DAX avec seuils décisionnels.
+- **Impact** : Réduction du délai d'instruction des dossiers de crédit de plus de **5 jours ouvrés**.
+
+### 🔹 **Baobab EMF (Côte d'Ivoire) — Environnement BI Multi-sites**
+- **Architecture** : Déploiement d'un environnement décisionnel complet pour le suivi de portefeuille et le pilotage d'un réseau d'agences décentralisé.
+- **Impact** : Consolidation en temps réel des indicateurs de performance réseau pour le comité de direction.
+
+### 🔹 **Groupe SABC (Boissons du Cameroun) — Audit & Refonte de Flux Industriels**
+- **Mission** : Audit technique exhaustif des flux de données industrielles multi-sites à forte volumétrie et refonte des tableaux de bord de suivi de production et de distribution.
+
+---
+
+## 💼 Parcours Professionnel
+
+- **Consultant Indépendant Senior, Architecte Data Lead & Chef de Projet** | *D&C Intelligence / DP-Tech / IntechLab237* `(Janv 2018 - Présent)`
+  - Direction d'audits de maturité data, conception d'architectures ETL et déploiements BI à fort impact en Afrique Centrale et de l'Ouest.
+  - Références clés : *BGFIBank, Attijari Bank Tchad, Baobab EMF, Lead Financial Advisory, Canal+ Cameroun, SOCAVER.*
+- **Enseignant Vacataire — Module "Audit des SI" (Master 2)** | *BEM Douala Management School* `(Oct 2025 - Présent)`
+  - Enseignement de la BI et de l'audit des systèmes d'information aux futurs cadres dirigeants.
+- **Expert BI & Data (Mission de transition)** | *Groupe SABC - Boissons du Cameroun* `(2022 / 2026)`
+- **Tech Lead & Développeur Principal** | *DOUALABOUGE* `(2019 - 2020)`
+
+---
+
+## 🎓 Formation Académique
+
+- 🎓 **Master en Informatique : Conception Logicielle** — EPFL (*École Polytechnique Fédérale de Lausanne*), 2016–2018
+- 🎓 **Bachelor : Programmation Orientée Composant** — EPFL (*École Polytechnique Fédérale de Lausanne*), 2015–2016
+- 🎓 **DSEP Télécommunications et Réseaux** — Institut Supérieur Matamfem, 2013–2015
+
+---
+
+## 📬 Me Contacter
+
+- 📧 **Email** : [duvalpeme@gmail.com](mailto:duvalpeme@gmail.com)
+- 💼 **LinkedIn** : [linkedin.com/in/duval-peme](https://linkedin.com/in/duval-peme)
+- 📱 **Téléphone / WhatsApp** : +237 698 88 27 74
+- 📍 **Localisation** : Douala, Cameroun 🇨🇲
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duval-peme&show_icons=true&theme=radial&hide_border=true" alt="Statistiques GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duval-peme&layout=compact&theme=radial&hide_border=true" alt="Langages les plus utilisés" width="48%" />
+</p>
